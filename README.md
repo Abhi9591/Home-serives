@@ -1,5 +1,10 @@
 # Home-serives
 
+# UI 
+![image alt](https://github.com/Abhi9591/Home-serives/blob/main/Screenshot%20(31).png?raw=true)
+
+
+
 # UrbanClap-Style Home Services Platform (Mini Sprint)
 
 A mini UrbanClap-style web application built using **FastAPI** (backend) and **React** (frontend).  
