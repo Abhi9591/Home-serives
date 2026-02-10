@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f8fb;
+  margin: 0;
+}
+
+.navbar {
+  padding: 15px 20px;
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ddd;
+}
+
+.container {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background: #1e63d5;
+  color: white;
+  border: none;
+  height: 30px;
+  width: auto;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+  
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.success {
+  font-size: 60px;
+  color: green;
+}
