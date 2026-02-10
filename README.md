@@ -2,7 +2,7 @@
 
 # UrbanClap-Style Home Services Platform (Mini Sprint)
 
-A production-ready, mini UrbanClap-style web application built using **FastAPI** (backend) and **React** (frontend).  
+A mini UrbanClap-style web application built using **FastAPI** (backend) and **React** (frontend).  
 This project focuses on the **Customer Flow**: browsing services and creating bookings.  
 
 ---
