@@ -59,7 +59,7 @@ This application simulates a home services platform where customers can:
 | price      | Integer| Required            |
 | created_at | Timestamp | Auto-generated     |
 
-NOte:In service we are just add the only Three serivce
+NOTE:In service we are just add the only Three serivce
 
 ### Booking
 | Column       | Type   | Notes                                |
