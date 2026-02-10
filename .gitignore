@@ -1,0 +1,50 @@
+# ------------------------
+# Python / FastAPI backend
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# Migrations / Alembic cache
+migrations/
+alembic.ini
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ------------------------
+# Node.js / React frontend
+# ------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnp.*
+.pnp.js
+
+# Build output
+build/
+dist/
+
+# ------------------------
+# OS / Editor files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# IDE / project settings
+.vscode/
+.idea/
+*.swp
